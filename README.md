@@ -4,6 +4,9 @@ Welcome to the Static Shortcuts App! This Android application demonstrates the i
 fixed (static) shortcuts for various activities within the app. With static shortcuts, users can
 quickly access specific features or activities directly from the launcher.
 
+![2024-04-29 10 52 38](https://github.com/shaurya127/Static_Shortcuts_App/assets/63494206/0cab374d-21eb-46ea-98e7-8d705505aa57)
+
+
 # Overview
 
 An Android application may contain several services or features for the user. Static shortcuts
